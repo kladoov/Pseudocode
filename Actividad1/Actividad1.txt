@@ -1,0 +1,19 @@
+1. Diseñar un algoritmo que convierta una temperatura expresada en grados Celsius  introducida por teclado, a grados Kelvin.
+
+2. Diseñar un algoritmo que calcule las áreas del triángulo, rectángulo, cuadrado, rombo y círculo.
+
+3. Diseñar un algoritmo que intercambie las edades de dos alumnos introducidas por teclado.
+
+4. Diseñar un algoritmo que calcule si un número es par y mayor que 100.
+
+5. Diseñar un algoritmo que permita el acceso a unas aulas virtuales, de forma que si la clave introducida es "S" accederá al aula AULA CICLO SMR, si la            clave es "D" accederá al aula AULA CICLO DAW y si la clave es "M" accederá al aula AULA CICLO DAM, en cualquier otro caso no podrá acceder a                  ningún aula. Se notificará el acceso visualizando el correspondiente mensaje.
+
+6. Diseñar un algoritmo que indique si el número introducido es positivo o negativo.
+
+7. Diseñar un algoritmo contabilice la suma de los números introducidos por teclado hasta que el usuario introduzca un cero.
+
+8. Diseñar un algoritmo contabilice  los números   introducidos por teclado. El programa debe finalizar cuando el usuario introduce  un cero.
+
+9. Diseñar un algoritmo que visualice los 20 primeros números enteros pares.
+
+10. Diseñar un algoritmo que visualice el día de la semana según el número introducido por teclado

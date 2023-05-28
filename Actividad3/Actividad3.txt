@@ -1,0 +1,25 @@
+1: Diseñar un algoritmo que lea las calificaciones de las 10 materias que cursa un alumno, las almacene y calcule y visualice  la media aritmética.
+
+2: Diseñar un  algoritmo para localizar la nota  en "Entornos de desarrollo" de un alumno de una clase de 25, solicitando de qué número de alumno se trata.
+
+3: A partir del ejercicio anterior modificar el algoritmo para localizar la nota máxima y  mínima  y la  casilla que ocupan respectivamente.
+
+4: Se desea almacenar las estaturas de los 30 alumnos de una actividad extraescolar, además se desea saber:
+
+·       Cuántos alumnos tienen una estatura superior a la media
+
+·       Cuántos alumnos tienen una estatura inferior a la media
+
+·       Cuál es la estatura media de la clase
+
+ 5: Realizar un algoritmo que gestione la reserva de plazas de un avión, teniendo en cuenta que:
+
+·       El avión tiene 200 plazas
+
+·       El avión dispone de 120 plazas de clase turista
+
+·       El avión dispone de 80 plazas de clase vip
+
+·       La reserva se hace a petición del pasajero
+
+·       El sistema de reserva se cerrará cuando ya no haya plazas libres o el avión esté próximo a despegar.

@@ -1,0 +1,20 @@
+1. Calcular las primeras 20 potencias de 4.
+
+2. Diseñar un algoritmo que calcule la potencia de un nº, se pedirá al usuario la base y el exponente, sin hacer uso del operador de potencia.
+
+3. Realizar las tablas de multiplicar del 1 al 9
+
+4. Calcular el nº mayor de todos los introducidos por teclado, el usuario indicará como condición de finalización “n”.*************************
+
+5. Diseñar un algoritmo que permita el acceso a un sistema mediante una clave, p.e: 841 el número máximos de intentos es 3.
+
+6. Diseñar un algoritmo que lea un número “n”  y visualice por pantalla los cuadrados y cubos de los “n” primeros números.
+
+7. Calcular el factorial de un nº. 
+
+8. Diseñar una algoritmo que calcule las veces que el usuario introduce una vocal fuerte y el nº de ocurrencias de cada una de ellas.
+
+9. Diseñar un algoritmo que calcule el precio de un billete de ida y vuelta en tren, sabiendo la distancia a recorrer y que si el número de días de estancia es superior a 7 y la distancia supera los 800 kilómetros, el billete tendrá una reducción del 25%. El precio por kilómetro es 0,15 euros.
+
+10. Programa “misterio”.
+
